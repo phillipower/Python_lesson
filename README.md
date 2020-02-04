@@ -3,7 +3,7 @@
 Samantha Filipów
 
 ## date
-04.02.2020
+2020-02-04
 
 
 
