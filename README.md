@@ -1,6 +1,6 @@
 # Pyhton lesson 
-## Author
-Samantha Filipów
+## place
+ZB MED
 
 ## date
 2020-02-04
